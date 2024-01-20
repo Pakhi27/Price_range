@@ -1,0 +1,24 @@
+.Box1,.Box2{
+    display:flex;
+    margin-left:350px;
+}
+.b1,.b2{
+    height:20px;
+    width:200px;
+    margin-left:20px;
+    margin-top:20px;
+    justify-content:center;
+}
+.heading,.sub-heading{
+    text-align: center;
+    /* margin-top: 100px; */
+}
+.heading{
+    margin-top: 100px;
+}
+.min-range-1{
+    margin-left:500px;
+}
+.min-range-2{
+    margin-left:500px;
+}
